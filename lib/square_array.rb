@@ -3,7 +3,7 @@ def square_array(array)
   new_array = []
   while counter < array.length 
     array.each do |num| 
-    new_array.push(num ** 2)
+ #   new_array.push(num ** 2)
   counter += 1 
 end
 end 
